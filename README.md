@@ -7,3 +7,6 @@ Some users reported that having an Accessibility Service running with "**canPerf
 https://user-images.githubusercontent.com/3103859/147457981-98146d1c-43db-46f1-8c78-1cd0020d11f2.mp4
 
 Mirror: https://imgur.com/a/YGfXsKF
+
+# Credits
+[@Burrro - Xda](https://forum.xda-developers.com/m/burrro.3374622/) for reporting the bug and helping with investigation to find the root cause
