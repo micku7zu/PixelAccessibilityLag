@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pixel Accessibility Lag</string>
+    <string name="accessibility_service_title">Pixel Accessibility Service Lag</string>
+</resources>

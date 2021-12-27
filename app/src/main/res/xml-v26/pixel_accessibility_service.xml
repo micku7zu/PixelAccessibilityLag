@@ -1,0 +1,10 @@
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:canControlMagnification="false"
+    android:canPerformGestures="true"
+    android:canRequestEnhancedWebAccessibility="false"
+    android:canRequestFilterKeyEvents="false"
+    android:canRequestFingerprintGestures="false"
+    android:canRequestTouchExplorationMode="false"
+    android:canRetrieveWindowContent="false"
+    android:description="@string/accessibility_service_title"
+    android:settingsActivity=".MainActivity" />
