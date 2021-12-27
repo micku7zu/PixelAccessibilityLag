@@ -1,4 +1,4 @@
-# Dummy Accessibility Service - Pixel Bug on Android 12
+# Pixel 6 Accessibility Service Freeze Bug - Dummy app
 
 This is a dummy Android Application with an accessibility service that does absolutely nothing, just requests the "[canPerformGesture](https://developer.android.com/reference/android/accessibilityservice/AccessibilityServiceInfo#CAPABILITY_CAN_PERFORM_GESTURES)" permission in order to use "[AccessibilityService.dispatchGesture](https://developer.android.com/reference/android/accessibilityservice/AccessibilityService#dispatchGesture(android.accessibilityservice.GestureDescription,%20android.accessibilityservice.AccessibilityService.GestureResultCallback,%20android.os.Handler))".
 
