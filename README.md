@@ -6,4 +6,4 @@ Some users reported that having an Accessibility Service with "canPerformGesture
 
 https://user-images.githubusercontent.com/3103859/147457981-98146d1c-43db-46f1-8c78-1cd0020d11f2.mp4
 
-Mirror: https://i.imgur.com/jelcWFR.mp4
+Mirror: https://imgur.com/a/YGfXsKF
