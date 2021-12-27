@@ -8,5 +8,13 @@ https://user-images.githubusercontent.com/3103859/147457981-98146d1c-43db-46f1-8
 
 Mirror: https://imgur.com/a/YGfXsKF
 
+# Steps to reproduce
+1. Install the dummy accessibility service APK from Github Releases: [pixel_6_accessibility_service_freeze_bug_v1.apk](https://github.com/micku7zu/PixelAccessibilityLag/releases/download/release/pixel_6_accessibility_service_freeze_bug_v1.apk) 
+
+(or any Android Application with an Accessibility Service with "canPerformGesture" permission)
+
+2. Enable the accessibility service from Android Settings
+3. Use the phone normally and watch for 1-2 seconds freeze each time when the battery drops 1%
+
 # Credits
 [@Burrro - Xda](https://forum.xda-developers.com/m/burrro.3374622/) for reporting the bug and helping with investigation to find the root cause
